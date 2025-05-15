@@ -1,3 +1,3 @@
-this is the readme file! this script can crash a low grade windows computer by spam opening cmd werbbrowser paint notepad ect.
+this is the readme file! this script can crash a low grade windows computer by spam opening cmd werbrowser paint notepad ect.
 dont use this on ur own computer ⚠️⚠️
-⚠️this is for educatinal purposes only⚠️
+⚠️this is for educational purpose only⚠️
