@@ -7,7 +7,7 @@ __author__ = "F9"
 __github__ = "https://github.com/F9presents"
 __date__ = "2025-5-15"
 __version__ = "1.0.0"
-__description__ = "this is a spam overload  swcript for testing if u wanna crash someone's computer"
+__description__ = "this is a spam overload  script for testing if u wanna crash someone's computer"
 
 print ("Opening URL in web browser...")
 while True:
